@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-  <img src="https://komarev.com/ghpvc/?username=kzwkt&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
+![](https://hit.yhype.me/github/profile?account_id=9437935)
 [![kzwkt's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kzwkt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
